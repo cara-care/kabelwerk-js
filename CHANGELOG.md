@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.8 (TBA)
+
+-   Upgraded Phoenix to [1.7.23](https://hexdocs.pm/phoenix/1.7.23/js/).
+
 ## 0.3.7 (TBA)
 
 -   Upgraded Phoenix to [1.7.10](https://hexdocs.pm/phoenix/1.7.10/js/).
